@@ -39,7 +39,7 @@ import cloudsOnly  from "../assets/lottieAnimation/only-cloud.json";
 import movingEarth  from "../assets/lottieAnimation/earth-location.json";
 import loadingAnimation  from "../assets/lottieAnimation/loading.json";
 
-const API_KEY = '03d643a1f813e557bbcc2e36e1171642';
+const API_KEY = 'api-key';
 
 export default function Section() {
   const [isLoading, setLoding] = useState(true);
